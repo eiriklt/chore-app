@@ -62,6 +62,11 @@ All defined in `src/types.ts`. The four core interfaces:
 - **Date format** — `'yyyy-MM-dd'` strings throughout (ISO date, no time)
 - **Named exports** for all components and hooks; default export only for `App`
 
+## Workflow
+
+- **Always create a new git branch** before starting work on a new feature or bug fix
+- Work on all changes in that branch for the remainder of the session
+
 ## Additional Documentation
 
 Check these when working on related areas:
